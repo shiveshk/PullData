@@ -1,0 +1,55 @@
+package com.hams.servlets;
+
+import java.io.IOException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebFilter;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.sun.org.apache.xalan.internal.xsltc.dom.Filter;
+
+/**
+ * Servlet implementation class LogoutServlet
+ */
+@WebServlet("/LogoutServlet")
+public class LogoutServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		
+		
+		try {
+			response.sendRedirect("index.jsp");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+
+	}
+	
+	@WebFilter
+	public class NoCacheFilter implements Filter {
+
+	    @Override
+	    public void doFilter(ServletRequest req, ServletResponse res, FilterChain chain) throws IOException, ServletException {
+	        HttpServletResponse response = (HttpServletResponse) res;
+
+	        response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate"); // HTTP 1.1.
+	        response.setHeader("Pragma", "no-cache"); // HTTP 1.0.
+	        response.setDateHeader("Expires", 0); // Proxies.
+
+	        chain.doFilter(req, res);
+	    }
+
+	    // ...
+	}
+
+	
+
+}

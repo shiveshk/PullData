@@ -1,0 +1,326 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292773969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292785926
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1446292787821
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446292788704
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446292789515
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292790422
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1446292795601
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446292803825
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1446292804111
+opened,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446292804133
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446292804189
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292808659
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292823926
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446292825492
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446292826032
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292827061
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446292827082
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446292827084
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446292827089
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446292827089
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446292827120
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446292827121
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446292827125
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446292827126
+executed,command,,,"AUTOGEN:::org.eclipse.core.runtime.xml.source.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction",1446292838380
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292848930
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292854423
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.scroll.lineDown",1446292855342
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292863788
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292876461
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446292883299
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446292885240
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446292891840
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292896154
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1446292896191
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292913049
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292918214
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446292926215
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1446292926766
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1446292927885
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446292931122
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1446292941669
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292942164
+started,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1446292942211
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446292942304
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1446292942413
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1446292942434
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446292942464
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292947009
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292957202
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446292958637
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446292959178
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446292959594
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1446292963115
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446292972908
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446292977971
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293148627
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446293150099
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446293154039
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1446293155040
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1446293159566
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293176696
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446293183085
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1446293200468
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1446293200470
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1446293200477
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293207549
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293212645
+started,bundle,org.eclipse.jst.server.generic.core,1.0.700.v20101219,"org.eclipse.jst.server.generic.core",1446293212710
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.100.v20100308,"org.eclipse.jst.server.preview.adapter",1446293212711
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293214583
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1446293214645
+started,bundle,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser",1446293217155
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1446293217543
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1446293217571
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293239672
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293248306
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293268129
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293272728
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293344090
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446293344193
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446293344218
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446293345971
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293346532
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446293347230
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293352586
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293356115
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293371373
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293376532
+started,bundle,org.eclipse.wst.common.environment,1.0.400.v200912181832,"org.eclipse.wst.common.environment",1446293385419
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293385578
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293387483
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293401557
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1446293411753
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293413507
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293417206
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293432637
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1446293459454
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293507610
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446293516379
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1446293518788
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1446293520763
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446293520773
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446293520773
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446293520773
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446293520773
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446293520798
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446293520798
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446293520803
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446293520803
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293523585
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293531919
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293546495
+error,log,,,"Unhandled event loop exception",1446293553398
+error,log,,,"Unhandled event loop exception",1446293553856
+error,log,,,"Unhandled event loop exception",1446293553881
+error,log,,,"Unhandled event loop exception",1446293553906
+error,log,,,"Unhandled event loop exception",1446293553931
+error,log,,,"Unhandled event loop exception",1446293553956
+error,log,,,"Unhandled event loop exception",1446293553981
+error,log,,,"Unhandled event loop exception",1446293554006
+error,log,,,"Unhandled event loop exception",1446293554036
+error,log,,,"Unhandled event loop exception",1446293554061
+error,log,,,"Unhandled event loop exception",1446293554086
+error,log,,,"Unhandled event loop exception",1446293554111
+error,log,,,"Unhandled event loop exception",1446293554131
+error,log,,,"Unhandled event loop exception",1446293554161
+error,log,,,"Unhandled event loop exception",1446293554181
+error,log,,,"Unhandled event loop exception",1446293554211
+error,log,,,"Unhandled event loop exception",1446293554236
+error,log,,,"Unhandled event loop exception",1446293554261
+error,log,,,"Unhandled event loop exception",1446293554286
+error,log,,,"Unhandled event loop exception",1446293554316
+error,log,,,"Unhandled event loop exception",1446293554341
+error,log,,,"Unhandled event loop exception",1446293554366
+error,log,,,"Unhandled event loop exception",1446293554391
+error,log,,,"Unhandled event loop exception",1446293554416
+error,log,,,"Unhandled event loop exception",1446293554441
+error,log,,,"Unhandled event loop exception",1446293554466
+error,log,,,"Unhandled event loop exception",1446293554491
+error,log,,,"Unhandled event loop exception",1446293554516
+error,log,,,"Unhandled event loop exception",1446293554541
+error,log,,,"Unhandled event loop exception",1446293554566
+error,log,,,"Unhandled event loop exception",1446293554591
+error,log,,,"Unhandled event loop exception",1446293571043
+error,log,,,"Unhandled event loop exception",1446293571508
+error,log,,,"Unhandled event loop exception",1446293571838
+error,log,,,"Unhandled event loop exception",1446293572559
+error,log,,,"Unhandled event loop exception",1446293572629
+error,log,,,"Unhandled event loop exception",1446293572899
+error,log,,,"Unhandled event loop exception",1446293573219
+error,log,,,"Unhandled event loop exception",1446293573799
+error,log,,,"Unhandled event loop exception",1446293574573
+error,log,,,"Unhandled event loop exception",1446293574726
+error,log,,,"Unhandled event loop exception",1446293574982
+error,log,,,"Unhandled event loop exception",1446293575202
+error,log,,,"Unhandled event loop exception",1446293575707
+error,log,,,"Unhandled event loop exception",1446293576082
+error,log,,,"Unhandled event loop exception",1446293576918
+error,log,,,"Unhandled event loop exception",1446293577083
+error,log,,,"Unhandled event loop exception",1446293577439
+error,log,,,"Unhandled event loop exception",1446293577769
+error,log,,,"Unhandled event loop exception",1446293579865
+error,log,,,"Unhandled event loop exception",1446293580971
+error,log,,,"Unhandled event loop exception",1446293581086
+error,log,,,"Unhandled event loop exception",1446293581736
+error,log,,,"Unhandled event loop exception",1446293582410
+error,log,,,"Unhandled event loop exception",1446293582510
+error,log,,,"Unhandled event loop exception",1446293582831
+error,log,,,"Unhandled event loop exception",1446293604229
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293614333
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293619772
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293654269
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293658697
+failed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293671873
+error,log,,,"""Paste"" did not complete normally.  Please see the log for more information.",1446293671878
+error,log,,,"java.lang.NullPointerException",1446293671878
+error,log,,,"Unhandled event loop exception",1446293681821
+error,log,,,"Unhandled event loop exception",1446293682287
+error,log,,,"Unhandled event loop exception",1446293682312
+error,log,,,"Unhandled event loop exception",1446293682337
+error,log,,,"Unhandled event loop exception",1446293682362
+error,log,,,"Unhandled event loop exception",1446293682387
+error,log,,,"Unhandled event loop exception",1446293682412
+error,log,,,"Unhandled event loop exception",1446293682437
+error,log,,,"Unhandled event loop exception",1446293682457
+error,log,,,"Unhandled event loop exception",1446293682487
+error,log,,,"Unhandled event loop exception",1446293682512
+error,log,,,"Unhandled event loop exception",1446293682537
+error,log,,,"Unhandled event loop exception",1446293682562
+error,log,,,"Unhandled event loop exception",1446293682587
+error,log,,,"Unhandled event loop exception",1446293682612
+error,log,,,"Unhandled event loop exception",1446293682637
+error,log,,,"Unhandled event loop exception",1446293682667
+error,log,,,"Unhandled event loop exception",1446293682692
+error,log,,,"Unhandled event loop exception",1446293682717
+error,log,,,"Unhandled event loop exception",1446293682742
+error,log,,,"Unhandled event loop exception",1446293682767
+error,log,,,"Unhandled event loop exception",1446293682792
+error,log,,,"Unhandled event loop exception",1446293682817
+error,log,,,"Unhandled event loop exception",1446293682842
+error,log,,,"Unhandled event loop exception",1446293684410
+error,log,,,"Unhandled event loop exception",1446293684840
+error,log,,,"Unhandled event loop exception",1446293685734
+error,log,,,"Unhandled event loop exception",1446293685804
+error,log,,,"Unhandled event loop exception",1446293688531
+error,log,,,"Unhandled event loop exception",1446293689256
+error,log,,,"Unhandled event loop exception",1446293689326
+error,log,,,"Unhandled event loop exception",1446293689710
+error,log,,,"Unhandled event loop exception",1446293690015
+error,log,,,"Unhandled event loop exception",1446293690909
+error,log,,,"Unhandled event loop exception",1446293691600
+error,log,,,"Unhandled event loop exception",1446293691715
+error,log,,,"Unhandled event loop exception",1446293691920
+error,log,,,"Unhandled event loop exception",1446293692115
+error,log,,,"Unhandled event loop exception",1446293692335
+error,log,,,"Unhandled event loop exception",1446293692870
+error,log,,,"Unhandled event loop exception",1446293693540
+error,log,,,"Unhandled event loop exception",1446293693602
+error,log,,,"Unhandled event loop exception",1446293693812
+error,log,,,"Unhandled event loop exception",1446293694163
+error,log,,,"Unhandled event loop exception",1446293695198
+error,log,,,"Unhandled event loop exception",1446293696208
+error,log,,,"Unhandled event loop exception",1446293696363
+error,log,,,"Unhandled event loop exception",1446293697589
+error,log,,,"Unhandled event loop exception",1446293698180
+error,log,,,"Unhandled event loop exception",1446293698255
+error,log,,,"Unhandled event loop exception",1446293698600
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293719897
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446293720691
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293723868
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293728093
+failed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1446293745610
+error,log,,,"""Paste"" did not complete normally.  Please see the log for more information.",1446293745610
+error,log,,,"java.lang.NullPointerException",1446293745610
+error,log,,,"Unhandled event loop exception",1446293750240
+error,log,,,"Unhandled event loop exception",1446293750705
+error,log,,,"Unhandled event loop exception",1446293750730
+error,log,,,"Unhandled event loop exception",1446293750755
+error,log,,,"Unhandled event loop exception",1446293750785
+error,log,,,"Unhandled event loop exception",1446293750805
+error,log,,,"Unhandled event loop exception",1446293750830
+error,log,,,"Unhandled event loop exception",1446293750855
+error,log,,,"Unhandled event loop exception",1446293750887
+error,log,,,"Unhandled event loop exception",1446293750912
+error,log,,,"Unhandled event loop exception",1446293750937
+error,log,,,"Unhandled event loop exception",1446293750962
+error,log,,,"Unhandled event loop exception",1446293750987
+error,log,,,"Unhandled event loop exception",1446293751012
+error,log,,,"Unhandled event loop exception",1446293751032
+error,log,,,"Unhandled event loop exception",1446293751057
+error,log,,,"Unhandled event loop exception",1446293751087
+error,log,,,"Unhandled event loop exception",1446293751112
+error,log,,,"Unhandled event loop exception",1446293751137
+error,log,,,"Unhandled event loop exception",1446293751162
+error,log,,,"Unhandled event loop exception",1446293751187
+error,log,,,"Unhandled event loop exception",1446293751217
+error,log,,,"Unhandled event loop exception",1446293751242
+error,log,,,"Unhandled event loop exception",1446293751267
+error,log,,,"Unhandled event loop exception",1446293752925
+error,log,,,"Unhandled event loop exception",1446293753292
+error,log,,,"Unhandled event loop exception",1446293753707
+error,log,,,"Unhandled event loop exception",1446293754332
+error,log,,,"Unhandled event loop exception",1446293754412
+error,log,,,"Unhandled event loop exception",1446293754652
+error,log,,,"Unhandled event loop exception",1446293754953
+error,log,,,"Unhandled event loop exception",1446293755498
+error,log,,,"Unhandled event loop exception",1446293756198
+error,log,,,"Unhandled event loop exception",1446293756303
+error,log,,,"Unhandled event loop exception",1446293756503
+error,log,,,"Unhandled event loop exception",1446293756713
+error,log,,,"Unhandled event loop exception",1446293756948
+error,log,,,"Unhandled event loop exception",1446293757358
+error,log,,,"Unhandled event loop exception",1446293757949
+error,log,,,"Unhandled event loop exception",1446293758014
+error,log,,,"Unhandled event loop exception",1446293758214
+error,log,,,"Unhandled event loop exception",1446293758529
+error,log,,,"Unhandled event loop exception",1446293759320
+error,log,,,"Unhandled event loop exception",1446293759710
+error,log,,,"Unhandled event loop exception",1446293759892
+error,log,,,"Unhandled event loop exception",1446293760505
+error,log,,,"Unhandled event loop exception",1446293761115
+error,log,,,"Unhandled event loop exception",1446293761215
+error,log,,,"Unhandled event loop exception",1446293761471
+error,log,,,"Unhandled event loop exception",1446293793508
+error,log,,,"Unhandled event loop exception",1446293793643
+error,log,,,"Unhandled event loop exception",1446293793783
+error,log,,,"Unhandled event loop exception",1446293794159
+error,log,,,"Unhandled event loop exception",1446293796170
+error,log,,,"Unhandled event loop exception",1446293796838
+error,log,,,"Unhandled event loop exception",1446293797048
+error,log,,,"Unhandled event loop exception",1446293797473
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293815244
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446293816075
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293828807
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446293880597
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446293881977
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1446293884932
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.navigator"".",1446293884992
+error,log,,,"An exception occurred invoking extension: org.eclipse.jst.jee.ui.web for object P/Hams",1446293884997
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446293886823
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1446293925465
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1446293941871
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294060386
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294088199
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446294088289
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446294089369
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294091240
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294119237
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294166821
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294258492
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.export",1446294258502
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446294844752
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295028650
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1446295034905
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295036275
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295038668
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295038828
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295043726
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1446295045856
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295065367
+started,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1446295070394
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.1.v201201112313,"org.eclipse.wst.jsdt.debug.rhino.ui",1446295070484
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1446295071663
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.rename.element",1446295071668

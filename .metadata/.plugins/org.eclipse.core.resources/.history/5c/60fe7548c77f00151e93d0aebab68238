@@ -1,0 +1,5 @@
+package com.hams.data;
+
+public class Appointment {
+
+}
