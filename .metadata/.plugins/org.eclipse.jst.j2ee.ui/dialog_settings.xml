@@ -9,8 +9,11 @@
 		<item value="Apache Tomcat v7.0"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
-		<item value="F:\Hams.war"/>
-		<item value="E:\Hamswar\Hams.war"/>
-		<item value="E:\eclipse-jee-indigo\WAR\Hams.war"/>
+		<item value="F:\Hamswar\24\Hams.war"/>
+		<item value="F:\Hamswar\14\Hams.war"/>
+		<item value="F:\Hamswar\Hams11\Hams.war"/>
+		<item value="F:\Hamswar\13\Hams.war"/>
+		<item value="F:\Hamswar\12\Hams.war"/>
+		<item value="F:\Hamswar\11\Hams.war"/>
 	</list>
 </section>

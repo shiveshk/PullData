@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472482632
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472489157
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472497730
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1449472499103
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472503929
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472505907
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472509625
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472513359
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1449472516175
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472520296
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472527744
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472530527
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472543060
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472556810
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449472573350
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472573787
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472573894
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472589568
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.findReplace",1449472589675
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472606117
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472610241
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472613278
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472616998
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1449472622392
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472625917
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472629283
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472642405
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1449472648675
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472652115
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472660516
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472662504
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472666453
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472688250
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472692898
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449472753462
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472755008
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449472757510
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472784172
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472792023
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.create.getter.setter",1449472792774
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1449472797444
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472814400
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449472828530
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.create.getter.setter",1449472828806
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472843311
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472853773
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449472872077
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472875813
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449472875814
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473056920
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473059045
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473060918
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473067225
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473076188
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449473081468
+activated,editor,org.eclipse.wst.css.ui,1.0.601.v201201101544,"org.eclipse.wst.css.core.csssource.source",1449473081709
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473086617
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473090107
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449473095702
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473096876
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473121284
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473301593
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473803376
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473805232
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473815952
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473823505
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473824395
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449473840346
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473842946
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473849429
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473850211
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473851983
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473856298
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473858240
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449473860907
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449473862447
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449473867226
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449473887268
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473916902
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473942091
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473944700
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449473946964
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1449473947000
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449473952480
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449473959793
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449473965733
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449473970929
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1449473981478
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1449473981550
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449474023126
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474035655
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474051100
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449474062717
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449474065097
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1449474065097
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449474067113
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1449474067925
+opened,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449474068097
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449474068257
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1449474099571
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449474104768
+closed,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449474104768
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1449474107408
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1449474114292
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449474117437
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474122837
+opened,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449474124577
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1449474124681
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474143870
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474151043
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474152531
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474165940
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474170544
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474181609
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474188710
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474204395
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474207711
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474217440
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474220252
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474280804
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474285848
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474298913
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474305270
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449474319567
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474324635
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474327635
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474338600
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474343172
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1449474348521
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1449474351801
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474357197
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474361930
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474367182
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474387103
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474393780
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449474415181
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474416773
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474421566
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474424730
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474429630
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474436163
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474438679
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474440431
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474443491
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474490658
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474495223
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474622052
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449474782110
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1449474783014
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474785374
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474790671
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1449474795395
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474797807
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1449474818741
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.wordNext",1449474819021
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1449474822997
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826649
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826653
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657
+no handler,command,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.cutcolumn",1449474826657

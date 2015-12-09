@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE hibernate-configuration SYSTEM 
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+   <session-factory>
+	   
+   
+   	<property name="hbm2ddl.auto">update</property>  
+	<property name="dialect">org.hibernate.dialect.MySQLDialect</property>   
+ <!--  	<property name="connection.pool_size">100</property> -->
+   	<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+   	
+   	<property name="connection.autoReconnect">true</property>
+    <property name="connection.autoReconnectForPools">true</property>
+    <property name="connection.is-connection-validation-required">true</property>
+    
+    <!-- hibernate.cfg.xml -->
+<property name="c3p0.min_size">5</property>
+<property name="c3p0.max_size">20</property>
+<property name="c3p0.timeout">1800</property>
+<property name="c3p0.max_statements">50</property>
+<!-- no "connection.pool_size" entry! -->
+    
+<!-- Enable Hibernate's automatic session context management -->
+		
+	<property name="current_session_context_class">thread</property>
+		
+	<property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property><!-- Disable the second-level cache -->
+	
+	<!-- Echo all executed SQL to stdout -->
+	<property name="show_sql">true</property>
+		
+	<property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+
+   	<!-- Assume hams is the database name -->
+   	<property name="hibernate.connection.url">
+      	jdbc:mysql://localhost:3306/hams?autoReconnect=true&amp;
+   	</property>
+  
+   	<property name="hibernate.connection.username">
+      root
+   	</property>
+   	<property name="hibernate.connection.password">
+      1234
+   	</property>
+
+   	<!-- List of XML mapping files -->
+   
+   	<mapping resource="appointment.hbm.xml"/>
+   	<mapping resource="user.hbm.xml"/>
+
+</session-factory>
+</hibernate-configuration>

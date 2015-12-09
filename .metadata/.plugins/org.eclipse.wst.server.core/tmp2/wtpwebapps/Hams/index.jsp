@@ -7,8 +7,8 @@
 <link rel="stylesheet" type="text/css" href="hams.css">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="style.css"/>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css"/>
 <title>Login</title>
 <style>
 
@@ -27,7 +27,7 @@ img {
 
 
 <body>
-<img src = "images/image1.png" alt="doctor2" id="img3"/> 
+
 
  <%
         if(session.isNew())
@@ -36,10 +36,10 @@ img {
             String s = request.getParameter("login");
             session.setAttribute("first", s);
             }
-        %>
+ %>
 
 
-    <div id="login-overlay" class="modal-dialog">
+    <div id="login-overlay" class="modal-dialog" style="margin-top:100px;">
       <div class="modal-content">
           <div class="modal-header">
               <h4 class="modal-title" id="myModalLabel"><b>Login to Hams Patient Appointment </b></h4> 

@@ -1,3 +1,17 @@
 1447051119967	Delete element
 1447163572586	Delete element
 1447163576739	Delete element
+1447399050159	Copy file
+1447399227346	Delete element
+1447418853381	Copy file
+1447419090274	Delete element
+1447419789591	Copy file
+1447420111935	Delete element
+1447483133661	Copy file
+1447483238946	Delete element
+1447483396248	Copy file
+1447488064097	Rename type 'SaveOrEditAppointmentServlet'
+1447488110492	Rename type 'ConfirmServlet'
+1447488489282	Rename type 'PatientAppointmentServlet'
+1447488571135	Delete element
+1447499030493	Rename package 'com.hams.servlets'

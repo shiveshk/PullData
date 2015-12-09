@@ -1,0 +1,76 @@
+@CHARSET "ISO-8859-1";
+<style>
+
+ p {
+  white-space: pre;
+ }
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    color : red;
+}
+#login-overlay {
+	width:500px;
+	
+}
+#img1 {
+	align: center;
+	margin: auto;
+	width: 100px;
+	bottom: 100px; 
+    height: 100px; 
+}
+
+.relative {
+    position: relative;
+    left: 10px;
+    border: 3px solid #73AD21;
+}
+
+#img2 {
+	align: center;
+	margin: auto;
+	bottom: 100px; 
+    height: 300px; 
+    width: 1350px;
+}
+
+#img3 {
+    float: right;
+    margin: 20px 0px 100px 100px;
+}
+
+tr.row2 td {
+    padding-top: 10px;
+}
+
+tr.row3 td {
+    padding-top: 10px;
+}
+
+tr.row4 td {
+    padding-top: 10px;
+}
+
+tr.row5 td {
+    padding-top: 10px;
+}
+
+tr.row6 td {
+    padding-top: 10px;
+}
+
+tr.row7 td {
+    padding-top: 10px;
+}
+
+tr.row8 td {
+    padding-top: 10px;
+}
+
+
+.modal-content {
+    background-color: #E0E0E0 ;
+}
+
+</style> 

@@ -1,0 +1,78 @@
+package com.hams.registration;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.log4j.Logger;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+/**
+ * Servlet implementation class DoctorRegistrationServlet
+ */
+@WebServlet("/DoctorRegistrationServlet")
+public class DoctorRegistrationServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	static final Logger LOGGER = Logger.getLogger(com.hams.registration.DoctorRegistrationServlet.class);
+       
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		LOGGER.info("entered into DoctorRegistrationServlet ");
+		
+		//make sessionfactory object static so we will need this only once
+		
+		private static final SessionFactory sessionFactory = buildSessionFactory();
+		
+		//build session factory
+		private static SessionFactory buildSessionFactory() {
+			try {
+				return new Configuration().configure().buildSessionFactory();
+			} catch (Throwable ex) {
+				System.err.println("Initial SessionFactory creation failed." + ex);
+				throw new ExceptionInInitializerError(ex);
+			}
+			}
+		
+		public static SessionFactory getSessionFactory() {
+			return sessionFactory;
+		}
+		
+			
+		
+		//get data from index.jsp and save in local variables
+		String clinic_name = null;
+		String address = null;
+		String contact_number = null;
+		String email = null;
+		String authorised_doctor_name = null;
+		String payment_cycle = null;
+		String agreement_mode = null;
+		String price_quota = null;
+		
+		
+		clinic_name = request.getParameter("clinic_name");
+		address = request.getParameter("address");
+		contact_number = request.getParameter("contact_number");
+		email = request.getParameter("email");
+		authorised_doctor_name = request.getParameter("authorised_doctor_name");
+		payment_cycle = request.getParameter("payment_cycle");
+		agreement_mode = request.getParameter("agreement_mode");
+		price_quota = request.getParameter("price_quota");
+		
+		
+		
+		
+	}
+
+	private SessionFactory buildSessionFactory() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

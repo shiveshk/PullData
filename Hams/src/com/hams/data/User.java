@@ -1,10 +1,19 @@
 package com.hams.data;
-
 import javax.persistence.Entity;
 @Entity
 
 public class User {
-	private long user_id;
+	
+	public User() {}
+	
+private Boolean admin ;	
+public Boolean getAdmin() {
+	return admin;
+}
+public void setAdmin(Boolean admin) {
+	this.admin = admin;
+}
+private long user_id;
 	
 	public long getUser_id() {
 		return user_id;
@@ -35,5 +44,6 @@ public class User {
 		this.time_stamp = time_stamp;
 	}
 	
+
 
 }

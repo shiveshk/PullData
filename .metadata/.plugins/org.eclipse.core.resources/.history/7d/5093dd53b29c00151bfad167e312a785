@@ -1,0 +1,37 @@
+package com.hams.data;
+
+import javax.persistence.Entity;
+
+
+@Entity
+public class Registration {
+	
+	public Registration() {}
+	
+	
+	
+
+	@Override
+	  public String toString() {
+		
+		String registration = new String(" "+ clinic_id + " "+ clinic_name + " "+ address + 
+				" " + contact_number + " "+ email +" " + authorised_doctor_name + " "+ payment_cycle +" "+ agreement_mode +" " + price_quota +" " );
+			    return testingappointment ;
+	  }
+	
+
+	private String appointment_date ;
+	private String appointment_booked_date ;
+	
+	
+
+	
+	
+	
+
+
+	
+	
+
+
+}
